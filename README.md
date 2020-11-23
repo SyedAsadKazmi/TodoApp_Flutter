@@ -29,3 +29,27 @@ These functions are called on the particular actions taken by the user involving
 
 3. Pressing the bin icon on any of the todo card in the list view or sliding any list item or the Dismissible in any direction allows the user to delete that particular task from the list view and also from the FireStore db by invoking the function deleteTodos() for that particular todo task using the document snapshot as argument and getting the document reference referring to the particular todo task using the id, and thereby deleting it from the FireStore and reflecting those changes back to the list view.
 
+
+
+
+
+
+
+
+
+
+## Demo Videos (Screen Recordings):
+
+TodoApp Light Theme (Android Screen Recording): https://drive.google.com/file/d/10h6-cCMXc6OKUbR0OEqjVtfIfY2zSlNl/view?usp=sharing
+
+TodoApp Dark Theme (Android Screen Recording): https://drive.google.com/file/d/1kIFON3xxycE2Ao5hpBq9oVW8oj77FcvU/view?usp=sharing
+
+
+
+## APK file:
+
+https://drive.google.com/file/d/1y0LYXViU_5t6HADDTiPLBIhqHKeT3y7T/view?usp=sharing
+
+
+
+
