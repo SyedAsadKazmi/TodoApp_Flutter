@@ -44,6 +44,10 @@ TodoApp Light Theme (Android Screen Recording): https://drive.google.com/file/d/
 
 TodoApp Dark Theme (Android Screen Recording): https://drive.google.com/file/d/1kIFON3xxycE2Ao5hpBq9oVW8oj77FcvU/view?usp=sharing
 
+TodoApp Light Theme (iOS Screen Recording): https://drive.google.com/file/d/1chNf-TY0kEDFRzgnVEuq1rtr38RbnZpV/view?usp=sharing
+
+TodoApp Dark Theme (iOS Screen Recording): https://drive.google.com/file/d/1RjlSajI3mivXHlU86iY6vtPQUJJ-3E-n/view?usp=sharing
+
 
 
 ## APK file:
