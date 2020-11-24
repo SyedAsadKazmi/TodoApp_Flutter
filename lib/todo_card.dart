@@ -147,7 +147,6 @@ class TodoCard extends StatelessWidget {
                   ),
                 ),
 
-                // Spacer(),
 
                 Expanded(
                   child: Column(
@@ -215,7 +214,9 @@ class TodoCard extends StatelessWidget {
                                               print(val);
                                               return null;
                                             },
-                                            onSaved: (val) {},
+                                            onSaved: (val) {
+
+                                            },
                                           )
                                         ]),
                                     actions: [

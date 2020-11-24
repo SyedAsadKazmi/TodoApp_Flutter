@@ -40,6 +40,7 @@ class _MyAppState extends State<MyApp> {
         floatingActionButton: FloatingActionButton(
           onPressed: () {
             addTodoTitleTextController.text = "";
+            deadline = DateTime.now();
             showDialog(
                 context: context,
                 builder: (BuildContext context) {
@@ -91,7 +92,9 @@ class _MyAppState extends State<MyApp> {
                             print(val);
                             return null;
                           },
-                          onSaved: (val) {},
+                          onSaved: (val) {
+
+                          },
                         )
                       ],
                     ),
